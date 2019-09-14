@@ -1,0 +1,61 @@
+No of length 1patterns:42
+pattern: <{1}> count: 14
+pattern: <{2}> count: 53
+pattern: <{3}> count: 55
+pattern: <{4}> count: 40
+pattern: <{5}> count: 37
+pattern: <{8}> count: 79
+pattern: <{9}> count: 73
+pattern: <{10}> count: 104
+pattern: <{11}> count: 80
+pattern: <{13}> count: 119
+pattern: <{14}> count: 68
+pattern: <{15}> count: 125
+pattern: <{17}> count: 175
+pattern: <{18}> count: 83
+pattern: <{19}> count: 88
+pattern: <{20}> count: 162
+pattern: <{23}> count: 111
+pattern: <{24}> count: 207
+pattern: <{25}> count: 136
+pattern: <{26}> count: 144
+pattern: <{27}> count: 202
+pattern: <{28}> count: 194
+pattern: <{29}> count: 156
+pattern: <{31}> count: 176
+pattern: <{32}> count: 215
+pattern: <{33}> count: 145
+pattern: <{34}> count: 202
+pattern: <{35}> count: 277
+pattern: <{36}> count: 259
+pattern: <{37}> count: 210
+pattern: <{38}> count: 245
+pattern: <{39}> count: 251
+pattern: <{40}> count: 188
+pattern: <{41}> count: 206
+pattern: <{42}> count: 273
+pattern: <{43}> count: 356
+pattern: <{44}> count: 311
+pattern: <{45}> count: 210
+pattern: <{46}> count: 267
+pattern: <{47}> count: 221
+pattern: <{48}> count: 334
+pattern: <{49}> count: 247
+
+No of length 2patterns:6
+pattern: <{2}, {5}> count: 13
+pattern: <{2}, {7}> count: 13
+pattern: <{2}, {9}> count: 10
+pattern: <{2}, {14}> count: 18
+pattern: <{3, 4}> count: 15
+pattern: <{22}, {3}> count: 15
+
+No of length 3patterns:4
+pattern: <{2}, {5}, {7}> count: 13
+pattern: <{2}, {5}, {14}> count: 13
+pattern: <{2}, {14}, {7}> count: 13
+pattern: <{22}, {3, 4}> count: 15
+
+No of length 4patterns:1
+pattern: <{2}, {5}, {14}, {7}> count: 13
+

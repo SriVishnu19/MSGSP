@@ -1,0 +1,7 @@
+Number of Length 1 Frequent Sequences: 5
+<{45}>	count: 210
+<{46}>	count: 267
+<{47}>	count: 221
+<{48}>	count: 334
+<{49}>	count: 247
+

@@ -1,0 +1,64 @@
+Number of Length 1 Frequent Sequences: 42
+<{1}>	count: 14
+<{10}>	count: 104
+<{11}>	count: 80
+<{13}>	count: 119
+<{14}>	count: 68
+<{15}>	count: 125
+<{17}>	count: 175
+<{18}>	count: 83
+<{19}>	count: 88
+<{2}>	count: 48
+<{20}>	count: 162
+<{23}>	count: 111
+<{24}>	count: 207
+<{25}>	count: 136
+<{26}>	count: 144
+<{27}>	count: 202
+<{28}>	count: 194
+<{29}>	count: 156
+<{3}>	count: 55
+<{31}>	count: 176
+<{32}>	count: 215
+<{33}>	count: 145
+<{34}>	count: 202
+<{35}>	count: 277
+<{36}>	count: 259
+<{37}>	count: 210
+<{38}>	count: 245
+<{39}>	count: 251
+<{4}>	count: 40
+<{40}>	count: 188
+<{41}>	count: 206
+<{42}>	count: 273
+<{43}>	count: 356
+<{44}>	count: 311
+<{45}>	count: 210
+<{46}>	count: 267
+<{47}>	count: 221
+<{48}>	count: 334
+<{49}>	count: 247
+<{5}>	count: 37
+<{8}>	count: 79
+<{9}>	count: 73
+
+Number of Length 2 Frequent Sequences: 8
+<{2}{5}>	count: 13
+<{2}{7}>	count: 13
+<{2}{9}>	count: 10
+<{2}{14}>	count: 13
+<{2}{21}>	count: 10
+<{2}{30}>	count: 10
+<{3, 4}>	count: 15
+<{22}{3}>	count: 15
+
+Number of Length 3 Frequent Sequences: 5
+<{2}{5}{7}>	count: 13
+<{2}{5}{14}>	count: 13
+<{2}{9, 30}>	count: 10
+<{2}{14}{7}>	count: 13
+<{22}{3, 4}>	count: 15
+
+Number of Length 4 Frequent Sequences: 1
+<{2}{5}{14}{7}>	count: 13
+
